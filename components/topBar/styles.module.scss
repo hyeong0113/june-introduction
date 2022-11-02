@@ -1,0 +1,13 @@
+.main {
+    background-color: transparent;
+}
+
+.menu {
+    padding-left: 35% !important;
+    position: fixed !important;
+    flex-grow: 1 !important;
+
+    &-option {
+        color: black !important;
+    }
+}
